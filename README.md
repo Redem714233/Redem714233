@@ -51,16 +51,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=Redem714233&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Redem's%20GitHub%20Stats)
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Redem714233&layout=compact&langs_count=8&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Redem714233&theme=tokyonight)](https://git.io/streak-stats)
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Redem714233&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Redem's%20GitHub%20Stats" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Redem714233&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
@@ -81,27 +73,5 @@
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Redem714233)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:12310815@mail.sustech.edu.cn)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Redem714233&color=blueviolet&style=flat-square)
-
-**Thanks for visiting! 😊**
 
 </div>
